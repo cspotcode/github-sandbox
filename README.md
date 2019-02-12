@@ -15,4 +15,12 @@ hero:
 color:
   first: doc
   last: brown
+list:
+  - one
+  - two
+  - three
+list 2:
+  - {one: valu}
+  - {two: val}
+  - {three: vla}
 ---
