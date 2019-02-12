@@ -24,3 +24,5 @@ list 2:
   - {two: val}
   - {three: vla}
 ---
+
+foo
