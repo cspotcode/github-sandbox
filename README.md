@@ -1,9 +1,5 @@
 # Me
 
-* new cat!
-* cat food
-* litter
-* litterbox
 
 
 ---
@@ -12,6 +8,10 @@
 
 ## Kitchen
 
+* new cat!
+* cat food
+* litter
+* litterbox
 
 
 ## Living room
