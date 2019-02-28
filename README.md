@@ -1,6 +1,9 @@
 # Me
 
 * new cat!
+* cat food
+* litter
+* litterbox
 
 
 ---
