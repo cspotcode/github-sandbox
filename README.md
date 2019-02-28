@@ -8,6 +8,10 @@
 
 ## Kitchen
 
+* new cat!
+* cat food
+* litter
+* litterbox
 
 
 ## Living room
