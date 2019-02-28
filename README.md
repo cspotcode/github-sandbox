@@ -1,6 +1,5 @@
 # Me
 
-* pet gate
 
 
 ---
@@ -17,5 +16,6 @@
 
 ## Living room
 
+* pet gate in doorframe
 * fancy sofa
 
