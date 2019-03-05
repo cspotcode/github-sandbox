@@ -5,3 +5,4 @@ another trigger
 trigger test, suppress deploy
 trigger test, suppress deploy
 trigger test, suppress deploy
+trigger test; suppress deploy
