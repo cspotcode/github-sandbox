@@ -2,3 +2,4 @@ triggering teamcity
 triggering with commit message indicating to skip deployment  
 this should trigger a deploy
 another trigger
+trigger test, suppress deploy
