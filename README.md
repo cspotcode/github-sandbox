@@ -29,3 +29,4 @@ foo
 
 trigger circle again
 trigger circle again
+trigger circle again
