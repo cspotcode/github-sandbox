@@ -26,3 +26,5 @@ list 2:
 ---
 
 foo
+
+trigger circle again
