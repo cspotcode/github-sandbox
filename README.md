@@ -27,6 +27,4 @@ list 2:
 
 foo
 
-trigger circle again
-trigger circle again
-trigger circle again
+and again
