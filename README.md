@@ -27,6 +27,4 @@ list 2:
 
 foo
 
-and again
-and again
-and again
+trigger to get build status from TC(?)
