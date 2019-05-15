@@ -1,3 +1,4 @@
+<!--
 ---
 key: value
 key2: value2
@@ -24,6 +25,7 @@ list 2:
   - {two: val}
   - {three: vla}
 ---
+-->
 
 foo
 
